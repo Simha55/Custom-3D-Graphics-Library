@@ -48,4 +48,5 @@ The graphics pipeline has been optimized to handle:
 - Improved support for more complex 3D models and environments.
 
 ---
-
+![3D Graphics Library Screenshot](assets/sshot1.png)
+![3D Graphics Library Screenshot](assets/sshot2.png)
